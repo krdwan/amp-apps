@@ -2,7 +2,7 @@
 An example of a react app and a preact app using amp bento components
 
 ## React app
-The react app is contained in the `my-app` directory.
+The react app is contained in the [my-app](https://github.com/krdwan/amp-apps/tree/main/my-app) directory.
 
 This was created using instructions from [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html).
 - To start the server, use the `npm start` command.
@@ -13,7 +13,7 @@ This [react example](https://github.com/krdwan/amp-apps/blob/main/my-app/src/App
 
 
 ## Preact app
-The preact app is contained in the `my-project` directory.
+The preact app is contained in the [my-project](https://github.com/krdwan/amp-apps/tree/main/my-project) directory.
 
 This was created using instructions from [preact cli](https://preactjs.com/guide/v10/getting-started/#best-practices-powered-by-preact-cli).
 - To start the server, use the `npm run dev` command.
